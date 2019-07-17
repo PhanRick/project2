@@ -1,0 +1,30 @@
+h1{
+	margin-left: 150px;
+}
+
+
+.forAlign{
+display: inline-block;;
+width: 155px;
+margin-right: 20px;
+margin-left: 30px;
+text-align: right;
+margin-top: 50px;
+padding:0;
+} 
+
+.forAlign2{
+display: inline-block;;
+width: 155px;
+text-align: left;
+margin-left: 20px;
+margin-top: 15px;
+padding:0;
+}
+
+.error{
+		font-size: 10px;
+		padding: 2px;
+		border-radius: 2px;
+		color: #b90101;
+	}
